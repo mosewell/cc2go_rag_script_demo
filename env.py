@@ -6,4 +6,4 @@
 # - Import this module in other scripts to access configuration
 
 BASE_URL = "http://localhost:8080"
-API_KEY = "sk-d524e876a79545af870adba4215aac27"
+API_KEY = "sk-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
